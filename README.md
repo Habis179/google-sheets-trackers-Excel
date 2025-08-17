@@ -1,4 +1,11 @@
-# Google-sheets-trackers-Excel
+# 📑 Google Sheets Trackers
+
+A collection of Google Sheets templates I’ve built to make life simpler — from budgeting to reading habits.  
+All templates are free to use. Just click **Make a Copy** and start using!
+
+⭐ If you like these trackers, feel free to star this repo!
+
+--
 A collection of Google Sheets templates (Budget Tracker, Book Reading Tracker, etc.)
 
 # 📊 Personal Budget Tracker (Google Sheets)
