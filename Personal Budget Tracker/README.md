@@ -17,5 +17,5 @@ Go to File --> Make a Copy
 Dashboard:
 <img width="1705" height="629" alt="image" src="https://github.com/user-attachments/assets/b50569d1-de3c-443d-9c7d-605c13477601" />
 
-Transactions:
+
 <img width="717" height="414" alt="image" src="https://github.com/user-attachments/assets/af201e6e-912c-4a60-8194-0c7935843c02" />
