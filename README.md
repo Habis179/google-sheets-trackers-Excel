@@ -5,6 +5,10 @@ All templates are free to use. Just click **Make a Copy** and start using!
 
 ⭐ If you like these trackers, feel free to star this repo!
 
+## Available Trackers
+1. [📊 Budget Tracker]
+2. [📚 Book Reading Tracker]
+(More coming soon)
 
 # 📊 Personal Budget Tracker (Google Sheets)
 
