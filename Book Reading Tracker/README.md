@@ -14,7 +14,7 @@ It helps you organize your books, track progress, and visualize your reading hab
 ---
 
 ## 📷 Preview
-
+<img width="1307" height="507" alt="image" src="https://github.com/user-attachments/assets/63a33b76-8831-42a2-a9a4-e593843eb6af" />
 
 ---
 
